@@ -1,0 +1,52 @@
+.container{
+    position: relative;
+    height: 600px;
+}
+
+.Box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 600px;
+    width: 1100px;
+    margin: auto;
+    background-color: rgb(96, 196, 96);
+}
+
+.box {
+    position: absolute;
+    margin: auto;
+    background-color: white;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.dist {
+    border: solid 1px white;
+    background-color: rgb(241, 241, 241);
+    padding-left: 15px;
+    margin-bottom: 15px;
+    height: 40px;
+    width: 300px;
+}
+
+.dast {
+    margin-top: 50px;
+}
+
+.butt {
+    background-color: rgb(7, 150, 7);
+}
+
+.register {
+    margin-bottom: 55px;
+    color: darkgrey;
+}
+
+a {
+    color: rgb(7, 150, 7);
+}
